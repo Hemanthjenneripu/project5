@@ -6,7 +6,7 @@ This is a web based application developed for pet related based website in india
 
 
 **Project Link** -https://yellow-field-0a08eaa00.2.azurestaticapps.net/
-**project demo video link** - 
+**project demo video link** - https://youtu.be/OC0goXgDfGM
 
 ## Azure technologies used for Project
 
