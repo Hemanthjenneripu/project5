@@ -1,8 +1,8 @@
 # ✨  Petspatial   ✨
 
-This is a web based application developed for health related based website in india
+This is a web based application developed for pet related based website in india
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based pet application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** -https://yellow-field-0a08eaa00.2.azurestaticapps.net/
@@ -11,7 +11,7 @@ This is a web based application developed for health related based website in in
 ## Azure technologies used for Project
 
 - Static web apps
-- chat bot
+- health bot
 
 ## Features and Functionalities 
 
@@ -25,8 +25,7 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 
-
-
+![Screenshot (1102)](https://user-images.githubusercontent.com/117731641/209936469-60dd7b5c-87c6-436b-8d80-8277662d9051.png)
 ![Screenshot (295)](https://user-images.githubusercontent.com/117731641/205266694-6ae66049-917d-43c0-97d8-8306a189dd5e.png)
 ![Screenshot (296)](https://user-images.githubusercontent.com/117731641/205266818-b843470a-7484-4270-8b2f-394e553ff39e.png)
 ![Screenshot (297)](https://user-images.githubusercontent.com/117731641/205266824-07491666-61e2-4c14-8a72-c33538b52ce6.png)
@@ -53,7 +52,7 @@ This is a web based application developed for health related based website in in
 ![Screenshot (306)](https://user-images.githubusercontent.com/117731641/205267684-388d56b2-17cc-4cd4-8e89-4a70e2809220.png)
 ![Screenshot (307)](https://user-images.githubusercontent.com/117731641/205267863-53a28cff-0a68-4c98-96b7-dfeb013ccedd.png)
 
-### chat bot
+### health bot
 ![Screenshot (308)](https://user-images.githubusercontent.com/117731641/205268059-774c97dd-6f00-4f6c-a21c-e82126a49a9d.png)
 
 ## Tech Stack 
@@ -62,3 +61,4 @@ This is a web based application developed for health related based website in in
 - HTML
 - CSS
 - JAVA
+-BOOTSTRAP
