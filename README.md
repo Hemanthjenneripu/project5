@@ -1,6 +1,6 @@
 # ✨  Petspatial   ✨
 
-This is a web based application developed for pet related based website in india
+This is a petspatial web based application developed for pet related based website in india
 
 ### This web based pet application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
@@ -18,10 +18,10 @@ This is a web based application developed for pet related based website in india
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About , services, chatbot, dog topics and pet related information etc.
+- Has collection of many web pages including Home, About , services, Healthbot, dog topics and pet related information etc.
 - User can know about pet information through this website.
 -  Included the feedback Survey form to increase the scope of improvement 
-- we also provide chatbot for more information
+- we also provide healthbot for more information
 
 ## Screenshots
 
